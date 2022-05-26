@@ -1,3 +1,16 @@
 body{
-    background-color: green;
+    background-color: rgb(30, 63, 30);
+}
+
+img{
+    justify-content: center;
+}
+
+.Gollilas{
+background-color: aqua;
+}
+
+
+.Rhinos{
+background-color: aqua;
 }
