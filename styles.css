@@ -3,14 +3,14 @@ body{
 }
 
 img{
-    justify-content: center;
+    justify-items: center;
 }
 
 .Gollilas{
-background-color: aqua;
+background-color: rgba(0, 255, 4, 0.325);
 }
 
 
 .Rhinos{
-background-color: aqua;
+background-color: rgba(153, 255, 0, 0.348);
 }
