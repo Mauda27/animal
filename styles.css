@@ -17,3 +17,11 @@ h2{
 ul{
 font-size: 2em;
 }
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+
+
