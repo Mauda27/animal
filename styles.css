@@ -27,8 +27,12 @@ font-size: 2em;
 
 
 img{
-    width: 50%
+    width: 50%    
 }
 
-
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
